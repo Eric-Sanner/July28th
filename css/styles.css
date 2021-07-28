@@ -1,0 +1,135 @@
+body {
+  background-color: #3EDBF0;
+  margin: 0;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+  font-size: 3.125rem;
+}
+
+h3 {
+  text-align: center;
+  color: #36454F;
+  font-size: 2.1875rem;
+}
+
+table {
+  text-align: center;
+  margin-left: 50px;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: red;
+  border-width: 5px;
+  height: 0;
+  width: 100%
+}
+
+p {
+  margin-left: 50px;
+}
+
+ul {
+  margin-left: 50px;
+}
+li{
+  margin-left: 300px;
+}
+
+a {
+  margin-left: 100px;
+}
+
+.Header {
+  padding-top: 5px;
+  background-image: url("EDM.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+
+.DOB {
+  text-align: center;
+  background-color: inherit;
+  font-size: 1.5625rem;
+  padding-right: 50px
+}
+
+.Education {
+  font-size: 1.5626rem;
+  padding-top: 10px;
+}
+
+.contact {
+  text-align: center;
+  background-color: inherit;
+  margin-right: 140px;
+  font-size: 20px;
+}
+
+.hobbies {
+  text-align: center;
+  background-color: inherit;
+  margin-right: 100px;
+}
+
+.square {
+  border-radius: 0;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.Experience-pic {
+  border-radius: 0;
+}
+.Experience{
+  margin-left: auto;
+  margin-right: auto;
+    font-size: 1.5626rem;
+    padding-left: 27%;
+}
+
+.Skills {
+  border-radius: 0;
+  font-size: 1.5626rem;
+}
+
+.headphones {
+  border-radius: 0;
+}
+.skill-row{
+  width: 70%;
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+padding-left: 25%;
+
+}
+.Footer{
+  background-color: #66BFBF;
+padding-bottom: 50px;
+}
+.skill-table{
+  width: 70%;
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+padding-left: 25%;
+}
+.hobby_paragraph{
+  font-size: 1.5626rem;
+  margin-left: 200px;
+  margin-right: 200px;
+}
